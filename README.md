@@ -1,3 +1,1 @@
 # ruby-sample
-
-test
